@@ -1,0 +1,25 @@
+[
+    "index.md",
+    "idle.md",
+    "select.md",
+    [
+        "draeger.md",
+        "draeger-about.md",
+        "draeger-drugtest-5000.md",
+        "draeger-alcotest-5510.md",
+        "draeger-alcotest-6820.md",
+        "draeger-alcotest-7510.md"
+    ],
+    [
+        "imagesensing.md",
+        "imagesensing-about.md",
+        "imagesensing-autoscope-ex-110.md",
+        "imagesensing-autoscope-pn-120.md",
+        "imagesensing-citysync.md"
+    ],
+    [
+        "pulse.md",
+        "pulse-about.md"
+    ],
+    "return.md"
+]

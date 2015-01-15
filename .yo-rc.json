@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "IACP 2015 Presentation",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "variabl3",
+    "githubRepository": "iacp-2015"
+  }
+}
