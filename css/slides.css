@@ -1,0 +1,15 @@
+/*
+    Index
+*/
+.logo-full {
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

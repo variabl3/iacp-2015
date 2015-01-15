@@ -1,9 +1,14 @@
 [
-    "index.md",
+    {
+        "filename": "index.html",
+        "attr": { 
+            "data-background": "#dc2835"
+        }
+    },
     "idle.md",
     "select.md",
     [
-        "draeger.md",
+        "draeger.html",
         "draeger-about.md",
         "draeger-drugtest-5000.md",
         "draeger-alcotest-5510.md",
@@ -11,7 +16,7 @@
         "draeger-alcotest-7510.md"
     ],
     [
-        "imagesensing.md",
+        "imagesensing.html",
         "imagesensing-about.md",
         "imagesensing-autoscope-ex-110.md",
         "imagesensing-autoscope-pn-120.md",
@@ -19,7 +24,13 @@
     ],
     [
         "pulse.md",
-        "pulse-about.md"
+        "pulse-about.md",
+        "pulse-mini.md"
+    ],
+    [
+        "bosch.html",
+        "bosch-about.md",
+        "bosch-bvms.md"
     ],
     "return.md"
 ]

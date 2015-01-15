@@ -1,3 +1,3 @@
-##  ImageSensing
+##  Bosch About
 
 This is a new Markdown slide
