@@ -1,14 +1,19 @@
 [
     {
         "filename": "index.html",
-        "attr": { 
+        "attr": {
             "data-background": "#dc2835"
         }
     },
     "idle.md",
     "select.md",
     [
-        "draeger.html",
+        {
+            "filename": "draeger.html",
+            "attr": {
+                "data-background": "../images/draeger-spread-full.png"
+            }
+        },
         "draeger-about.md",
         "draeger-drugtest-5000.md",
         "draeger-alcotest-5510.md",
@@ -16,21 +21,41 @@
         "draeger-alcotest-7510.md"
     ],
     [
-        "imagesensing.html",
+        {
+
+            "filename": "imagesensing.html",
+            "attr": {
+                "data-background": "../images/imagesensing-spread-full.png"
+            }
+
+        },
         "imagesensing-about.md",
         "imagesensing-autoscope-ex-110.md",
         "imagesensing-autoscope-pn-120.md",
-        "imagesensing-citysync.md"
+        "imagesensing-citysync.html"
     ],
     [
-        "pulse.md",
+        {
+
+            "filename": "pulse.md",
+            "attr": {
+                "data-background": "../images/pulse-spread-full.png"
+            }
+
+        },
         "pulse-about.md",
         "pulse-mini.md"
     ],
     [
-        "bosch.html",
+        {
+
+            "filename": "bosch.html",
+            "attr": { 
+                "data-background": "../images/bosch-spread-full.png"
+            }
+        },
         "bosch-about.md",
-        "bosch-bvms.md"
+        "bosch-video-surveillance.md"
     ],
     "return.md"
 ]

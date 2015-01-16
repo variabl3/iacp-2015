@@ -1,3 +1,5 @@
 ##  ImageSensing Autoscope PN-120
 
-This is a new Markdown slide
+Compact, low-profile HD LPR camera system.
+
+![Autoscope PN-120](../images/imagesensing-autoscope-pn-120-medium.png)

@@ -13,3 +13,11 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+.spread {
+    background-size: 100%;
+}
+
+video {
+    margin-top: 1em;
+}
