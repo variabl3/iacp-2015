@@ -5,3 +5,5 @@ dist
 .sass-cache
 index.html
 Thumbs.db
+video/
+*.mp4
