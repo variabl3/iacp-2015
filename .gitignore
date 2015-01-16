@@ -6,7 +6,11 @@ dist
 index.html
 Thumbs.db
 <<<<<<< HEAD
+<<<<<<< HEAD
 video/
 =======
 >>>>>>> 4888d23... Version 0.9.0
 *.mp4
+=======
+video/
+>>>>>>> 8d68ee9... Version 0.9.0 HOTFIX
