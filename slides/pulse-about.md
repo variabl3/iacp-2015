@@ -1,3 +1,2 @@
-##  Pulse About
+##  Pulse Technology Partners
 
-This is a new Markdown slide

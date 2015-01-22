@@ -1,3 +1,5 @@
-##  Idle
+##  To Sell and to Serve
 
-This is a new Markdown slide
+Your technology partner since 1972.
+
+__www.newerarep.com__

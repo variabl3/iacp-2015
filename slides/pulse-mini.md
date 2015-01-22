@@ -1,3 +1,5 @@
 ##  Pulse Mini
 
-This is a new Markdown slide
+The ultimate compact speed detection system.
+
+![Pulse Mini](../images/pulse-mini-comparison.png)

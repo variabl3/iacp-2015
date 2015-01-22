@@ -1,3 +1,2 @@
-##  ImageSensing About
+##  ImageSensing Systems
 
-This is a new Markdown slide

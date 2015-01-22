@@ -1,3 +1,2 @@
-##  Draeger About
+##  Draeger Safety Diagnostics
 
-This is a new Markdown slide
