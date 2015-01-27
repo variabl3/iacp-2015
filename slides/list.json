@@ -11,7 +11,12 @@
             "data-background": "#dc2835"
         }
     },
-    "select.html",
+    {
+        "filename": "select.html",
+        "attr": {
+            "data-background": "../images/select-spread.png"
+        }
+    },
     [
         {
             "filename": "draeger.html",
@@ -19,7 +24,12 @@
                 "data-background": "../images/draeger-spread-full.png"
             }
         },
-        "draeger-about.md",
+        {
+            "filename": "draeger-about.md",
+            "attr": {
+                "data-background": "../images/draeger-spread-half.png"
+            }
+        },
         "draeger-drugtest-5000.md",
         "draeger-drugtest-5000-info.md",
         "draeger-ssk-5000.md",
@@ -76,7 +86,6 @@
             }
         },
         "bosch-about.md",
-        "bosch-video-surveillance.md",
         "bosch-iva.html",
         "bosch-itracking.html"
     ],

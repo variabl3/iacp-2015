@@ -22,15 +22,42 @@ video {
     margin-top: 1em;
 }
 
-.selector tr td {
+.select-menu {
+    display: block;
+    width: 100%;
+    height: 106px;
+}
+
+.select-menu li {
+    display: block;
+    list-style: none;
+    line-height: 106px;
+}
+
+.control {
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
     text-align: center;
-    width: 400px;
+    z-index: 1;
+}
+.control a {
+    line-height: 100px;
+    width: 100px;
+}
+.control a img {
+    height: 100px;
+    width: 100px;
+}
+.selector {
+    margin-top: 100px;
 }
 
-.selector tr td.left {
-    text-align: left;
+.pulse-blue {
+    color: #0090cd;
 }
 
-.selector tr td.right {
-    text-align: right;
+.pulse-lowercase {
+    text-transform: capitalize;
 }
