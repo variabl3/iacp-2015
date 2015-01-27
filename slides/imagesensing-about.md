@@ -1,2 +1,3 @@
 ##  ImageSensing Systems
 
+ISS is a provider of above ground detection and information management solutions for the Intelligent Transportation Systems (ITS) sector and adjacent markets including security, police and parking. ISS' industry leading products include the Autoscope video detection family, the Autoscope radar detection family and the Autoscope automatic license plate recognition (ALPR) family.

@@ -11,7 +11,7 @@
             "data-background": "#dc2835"
         }
     },
-    "select.md",
+    "select.html",
     [
         {
             "filename": "draeger.html",
@@ -22,6 +22,7 @@
         "draeger-about.md",
         "draeger-drugtest-5000.md",
         "draeger-drugtest-5000-info.md",
+        "draeger-ssk-5000.md",
         "draeger-alcotest-5510.md",
         "draeger-alcotest-5510-info.md",
         "draeger-alcotest-6820.md",
@@ -43,8 +44,14 @@
         "imagesensing-about.md",
         "imagesensing-autoscope-ex-110.md",
         "imagesensing-autoscope-ex-110-info.md",
+        "imagesensing-autoscope-fixed-1.md",
+        "imagesensing-autoscope-fixed-2.md",
+        "imagesensing-autoscope-fixed-3.md",
+        "imagesensing-autoscope-fixed-4.md",
+        "imagesensing-autoscope-alpr.html",
         "imagesensing-autoscope-pn-120.md",
         "imagesensing-autoscope-pn-120-info.md",
+        "imagesensing-autoscope-mlpr.html",
         "imagesensing-citysync.html"
     ],
     [
@@ -73,5 +80,10 @@
         "bosch-iva.html",
         "bosch-itracking.html"
     ],
-    "return.md"
+    {
+        "filename": "return.md",
+        "attr": {
+            "data-background": "#dc2835"
+        }
+    }
 ]

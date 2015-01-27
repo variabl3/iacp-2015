@@ -21,3 +21,16 @@ img {
 video {
     margin-top: 1em;
 }
+
+.selector tr td {
+    text-align: center;
+    width: 400px;
+}
+
+.selector tr td.left {
+    text-align: left;
+}
+
+.selector tr td.right {
+    text-align: right;
+}
